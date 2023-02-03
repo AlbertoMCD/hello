@@ -4,4 +4,4 @@ Mi nombre es Alberto Martínez Lara, estudio la maestría en Ciencia de Datos en
 
 ![](https://media.giphy.com/media/4a5U94rJlX40QMfox0/giphy.gif)
 
-*[Source: GIPHY](hhttps://media.giphy.com/media/4a5U94rJlX40QMfox0/giphy.gif)*
+*[Source: GIPHY](https://media.giphy.com/media/4a5U94rJlX40QMfox0/giphy.gif)*
