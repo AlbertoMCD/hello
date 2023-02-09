@@ -7,3 +7,8 @@ Gracias por la invitación **Alberto**! Mi nombre es Víctor Cuspinera y soy pro
 ![](https://media.giphy.com/media/4a5U94rJlX40QMfox0/giphy.gif)
 
 *[Source: GIPHY](https://media.giphy.com/media/4a5U94rJlX40QMfox0/giphy.gif)*
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
