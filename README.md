@@ -8,6 +8,8 @@ Gracias por la invitación **Alberto**! Mi nombre es Víctor Cuspinera y soy pro
 
 *[Source: GIPHY](https://media.giphy.com/media/4a5U94rJlX40QMfox0/giphy.gif)*
 
+La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/AlbertoMCD/hello/blob/main/docs/referencias.md).
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
